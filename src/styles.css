@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    overscroll-behavior: none;
+    /*margin: 0;*/ /* i kind of like the default margins lol */
+}
+
+body {
+    background-image: url('https://freight.cargo.site/w/3840/q/75/i/69d416a81aaba4f4f1400b1c6eac9ca742848620640f353163fcc3e7e7f46730/ROR_SH05_BG_CLEAN_05.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
